@@ -19,16 +19,6 @@ A simple CAD (Computer-Aided Design) application built with **Pygame**, designed
 - Python 3.8+  
 - Pygame library installed (`pip install pygame`)  
 
-#### **Installation**  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/pygame-cad.git
-   cd pygame-cad
-   ```  
-2. Run the application:  
-   ```bash
-   python Pycad.py
-   ```  
 
 #### **Controls**  
 - **Tools**:  
